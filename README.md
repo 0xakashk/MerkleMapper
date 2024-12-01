@@ -32,7 +32,7 @@ python MerkleMapper.py -f domains.txt
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/MerkleMapper.git
+git clone https://github.com/0xakashk/MerkleMapper.git
 cd MerkleMapper
 ```
 
